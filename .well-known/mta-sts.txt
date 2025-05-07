@@ -1,7 +1,6 @@
 version: STSv1
 mode: testing
 mx: hughespritchard-co-uk.mail.protection.outlook.com   
-mx: hughespritchard-co-uk.mail.protection.outlook.com
 max_age: 86401                           
           
                             
