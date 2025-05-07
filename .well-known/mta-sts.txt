@@ -1,7 +1,7 @@
 version: STSv1
 mode: enforce
 mx: hughespritchard.co.uk
-mx: hughespritchard.co.uk
+mx: hughespritchard-co-uk.mail.protection.outlook.com
 max_age: 1209600                           
           
                             
